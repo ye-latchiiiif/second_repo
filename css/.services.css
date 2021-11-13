@@ -1,0 +1,37 @@
+.services
+          {
+    display: flex;
+    padding: 100px 0 ;
+    margin: 30px 250px; 
+    color: white;
+    justify-content: center;
+    
+          }
+
+ .service4patients 
+                 {
+                  background-color: #00b39b;
+                  border-radius: 8px ;
+  
+                
+}
+ .service4doctors 
+                 {
+                 background-color: #3d83df;
+                 border-radius: 8px ;
+               
+ }
+
+ .service4clinics 
+                 {
+                     background-color: #747474;
+                     border-radius: 8px ;
+}
+.informations 
+           {
+            font-size: 35px; 
+            font-family: sans-serif;
+            padding-top: 20px;
+            padding-right: 10px ; 
+
+}
